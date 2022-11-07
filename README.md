@@ -11,7 +11,7 @@ It will include the code, the screenshot of the code and problem statement along
 
 
 #### Socials
-The daily updates of it will be posted over  socials
+The daily updates of it will be posted over socials  
 Linkedin: [Sourav Kumar](https://www.linkedin.com/in/23souravkumar/)  
 Github: [StudentDevelops](https://github.com/studentdevelops/)  
 Leetcode: [LeetingSourav](https://leetcode.com/LeetingSourav/)
