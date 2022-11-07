@@ -79,7 +79,6 @@ class Solution {
 ___
 ### Results
 ![image](https://user-images.githubusercontent.com/31382363/200379057-77760859-8645-4ae2-b79c-257caf5545ad.png)
-![image](https://user-images.githubusercontent.com/31382363/200379133-d5290176-0021-4765-8792-24a436a438cc.png)
 ___
 
 
