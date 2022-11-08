@@ -9,7 +9,7 @@ Since it is impossible to change the length of the array in some languages, you 
 Return k after placing the final result in the first k slots of nums. 
 Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
 
-#### LeetCode Link: [Remove Element](https://leetcode.com/problems/remove-element/)
+#### LeetCode Link: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 ___
 
 For this program a custom judge will test the solution
@@ -72,4 +72,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/main/Day1_Remove_Element/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/main/Day2_RemoveDuplicates/code.java)
