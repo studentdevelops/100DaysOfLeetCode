@@ -65,7 +65,8 @@ class Solution {
 		nums[currentCount] = nums[nums.length - 1];
 		return currentCount + 1;
     }
-}```
+}
+```
 ___
 ### Results
 ![image](https://user-images.githubusercontent.com/31382363/200628543-0c5f8ad4-b179-4a88-9def-e5a5539df94a.png)
