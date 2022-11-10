@@ -6,7 +6,7 @@ Write a function that reverses a string. The input string is given as an array o
 
 You must do this by modifying the input array in-place with O(1) extra memory.
 
-#### LeetCode Link: [Reverse String]([https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/reverse-string/description/))
+#### LeetCode Link: [Reverse String]((https://leetcode.com/problems/reverse-string/description/)
 ___
 
 
