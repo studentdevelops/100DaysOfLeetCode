@@ -1,4 +1,4 @@
-# Day 3 of `#100DaysOfLeetCode`
+# Day 4 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
@@ -47,4 +47,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/9ca49b4d01d7ea49fa08d3a40e21c06e9f8bf7c3/Day3_Reverse_String/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/95da8360a5f13314f36d7a5c8b943c9496c3708c/Day4_Rotate_String/code.java)
