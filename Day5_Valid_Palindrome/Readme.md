@@ -59,4 +59,5 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/95da8360a5f13314f36d7a5c8b943c9496c3708c/Day4_Rotate_String/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/988964166c16285102bc7766297c55f82d715434/Day5_Valid_Palindrome/code.java)
+* [Java Recurrsive](https://github.com/studentdevelops/100DaysOfLeetCode/blob/988964166c16285102bc7766297c55f82d715434/Day5_Valid_Palindrome/alternativeCode.java)
