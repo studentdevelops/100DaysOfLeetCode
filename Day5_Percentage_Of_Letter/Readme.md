@@ -1,10 +1,10 @@
-# Day 5 of `#100DaysOfLeetCode`
+# Day 6 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
 Given a string s and a character letter, return the percentage of characters in s that equal letter rounded down to the nearest whole percent.
 
-#### LeetCode Link: [Percentage of a Letter in String]((https://leetcode.com/problems/percentage-of-letter-in-string/description/))
+#### LeetCode Link: [Percentage of a Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
 
 ___
 
