@@ -54,4 +54,3 @@ ___
 
 ### Link to Github file  
 * [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/988964166c16285102bc7766297c55f82d715434/Day5_Valid_Palindrome/code.java)
-* [Java Recurrsive](https://github.com/studentdevelops/100DaysOfLeetCode/blob/988964166c16285102bc7766297c55f82d715434/Day5_Valid_Palindrome/alternativeCode.java)
