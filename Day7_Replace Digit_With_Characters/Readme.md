@@ -1,4 +1,4 @@
-# Day 5 of `#100DaysOfLeetCode`
+# Day 7 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
