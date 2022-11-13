@@ -59,3 +59,4 @@ ___
 ___
 
 ### Link to Github file  
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/11993bdd49d239a76221ce8c7773a955870251f0/Day7_Replace%20Digit_With_Characters/code.java) 
