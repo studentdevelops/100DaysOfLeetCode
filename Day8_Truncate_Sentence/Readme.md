@@ -1,4 +1,4 @@
-# Day 7 of `#100DaysOfLeetCode`
+# Day 8 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
@@ -68,4 +68,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/11993bdd49d239a76221ce8c7773a955870251f0/Day7_Replace%20Digit_With_Characters/code.java) 
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/5af85933fff79b87ebe66b17483e4e3f60b74c9f/Day8_Truncate_Sentence/code.java)
