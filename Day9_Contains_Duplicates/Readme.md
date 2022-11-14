@@ -52,4 +52,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/5af85933fff79b87ebe66b17483e4e3f60b74c9f/Day8_Truncate_Sentence/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/edb84b5b228f9f17cd7d000e771ff86964dc838e/Day9_Contains_Duplicates/code.java)
