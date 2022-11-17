@@ -6,7 +6,7 @@ class Solution {
         Arrays.sort(charArray2);
 
         int i = 0, j = 0;
-        while (i< s.length() && j < t.length()) {
+        while (i< charArray1.length && j < charArray2.length) {
             if (charArray1[i] != charArray2[j]) {
                 return charArray2[j];
             } else {
