@@ -1,4 +1,4 @@
-# Day 11 of `#100DaysOfLeetCode`
+# Day 12 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
@@ -37,7 +37,7 @@ class Solution {
         Arrays.sort(charArray2);
 
         int i = 0, j = 0;
-        while (i< s.length() && j < t.length()) {
+        while (i< charArray1.length && j < charArray2.length) {
             if (charArray1[i] != charArray2[j]) {
                 return charArray2[j];
             } else {
@@ -51,9 +51,9 @@ class Solution {
 ```
 ___
 ### Results
-![image](https://user-images.githubusercontent.com/31382363/202529857-7dfe5b70-74ed-4b56-8f38-76b673443fc3.png)
+![image](https://user-images.githubusercontent.com/31382363/202530618-ce7165b9-81f4-45e7-b429-43cedece8b9c.png)
 
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/f16a35551b9f702d4c46e8c75548293d93e5ddf1/Day11_Check_If_Pangram/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/d26f3a8edc0d1a17274ceb0192f69bf2ee12e067/Day12_Find_The_Difference/code.java)
