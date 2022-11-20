@@ -1,12 +1,15 @@
-# Day 14 of `#100DaysOfLeetCode`
+# Day 15 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
-Given a string paragraph and a string array of the banned words banned, return the most frequent word that is not banned. It is guaranteed there is at least one word that is not banned, and that the answer is unique.
+We define the usage of capitals in a word to be right when one of the following cases holds:
 
-The words in paragraph are case-insensitive and the answer should be returned in lowercase.
+* All letters in this `word` are capitals, like `"USA"`.
+* All letters in this `word` are not capitals, like `"leetcode"`.
+* Only the first letter in this `word` is capital, like `"Google"`.
+Given a string `word`, return `true` if the usage of capitals in it is right.
 
-#### LeetCode Link: [Most Common Word](https://leetcode.com/problems/most-common-word/description/)
+#### LeetCode Link: [Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 ___
 
 
@@ -28,11 +31,8 @@ Output: "a"
 ___
 
 ### Constraints 
-* `1 <= paragraph.length <= 1000`
-* `paragraph` consists of English letters, space ' ', or one of the symbols: `"!?',;.".`.
-* 0 <= `banned`.length <= 100
-* 1 <= `banned[i]`.length <= 10
-* `banned[i]` consists of only lowercase English letters.
+* `1 <= word.length <= 100`
+* `word` consists of lowercase and uppercase English letters.
 
 ```java
 class Solution {
@@ -56,4 +56,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/bb72a260b12acbf2c66a98e2d146e6db6af3f3f7/Day14_Most_Common_Word/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/73f18feb98df130d3fa7d581f10abefa16bf8e6a/Dat15_Detect_Capital/code.java)
