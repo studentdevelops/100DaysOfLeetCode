@@ -56,4 +56,5 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/73f18feb98df130d3fa7d581f10abefa16bf8e6a/Dat15_Detect_Capital/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/9cd2926c2ff18635f2783be1de1f33a4dff303ca/Day16_Word_Occuring_At_Start/code.java)
+* [Java Alternate Using Substring](https://github.com/studentdevelops/100DaysOfLeetCode/blob/5872711734e9cdc5f16e3b5dbb7a6d5922e6bf2a/Day16_Word_Occuring_At_Start/AlternateJavaCode.java)
