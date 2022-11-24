@@ -4,7 +4,7 @@ ___
 ### Problem Statement:  
 Given a string `s`, find the first non-repeating character in it and return its index. If it does not exist, return `-1`.
 
-#### LeetCode Link: [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+#### LeetCode Link: [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 ___
 
 
@@ -55,5 +55,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/a7e295fbc636c53e837236545fc010b2a754d69c/Day18_Valid_Anagram/code.java)
-* [Java Approch 2](https://github.com/studentdevelops/100DaysOfLeetCode/blob/a7e295fbc636c53e837236545fc010b2a754d69c/Day18_Valid_Anagram/code_2.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/6fde60e164bf61a9b7ba81ee9fc89edf8b56ecce/DAy19_Firrst_Unique_Character/code.java)
