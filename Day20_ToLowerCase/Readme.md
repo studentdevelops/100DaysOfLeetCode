@@ -48,5 +48,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/a7e295fbc636c53e837236545fc010b2a754d69c/Day18_Valid_Anagram/code.java)
-* [Java Approch 2](https://github.com/studentdevelops/100DaysOfLeetCode/blob/a7e295fbc636c53e837236545fc010b2a754d69c/Day18_Valid_Anagram/code_2.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/b13249eb9add861d7904aa4b72b4fb496eb1facf/Day20_ToLowerCase/code.java)
