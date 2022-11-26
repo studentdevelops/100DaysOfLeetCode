@@ -68,4 +68,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/b13249eb9add861d7904aa4b72b4fb496eb1facf/Day20_ToLowerCase/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/5827907fe5403ae7a42078563484696df3d83fd9/Day21_Capitalize_the_String/code.java)
