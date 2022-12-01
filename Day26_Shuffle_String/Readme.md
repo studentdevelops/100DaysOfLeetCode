@@ -7,6 +7,8 @@ You are given a string `s` and an integer array `indices` of the same length. Th
 Return the shuffled string.
 
 Example:
+
+
 ![image](https://user-images.githubusercontent.com/31382363/205143185-a8839406-e627-4205-9657-131e356eb436.png)
 
 
