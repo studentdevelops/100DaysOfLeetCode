@@ -1,7 +1,6 @@
 class Solution {
     public int countSegments(String s) {
         s = s.trim();
-        String[] aStrings = s.split(" ");
         int size = s.length();
         if (size == 0) {
             return 0;
