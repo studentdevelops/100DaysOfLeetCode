@@ -1,59 +1,57 @@
-# Day 29 of `#100DaysOfLeetCode`
+# Day 30 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
-Given a string `s`, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+Given a string `s`, return the number of segments in the string.
 
-#### LeetCode Link: [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
+A segment is defined to be a contiguous sequence of non-space characters.
+
+#### LeetCode Link: [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 ___
 
 
 ### Test Cases
 ```
-Input: s = "Let's take LeetCode contest"
-Output: "s'teL ekat edoCteeL tsetnoc"
+Input: s = "Hello, my name is John"
+Output: 5
+Explanation: The five segments are ["Hello,", "my", "name", "is", "John"]
 ```
 ```
-Input: s = "God Ding"
-Output: "doG gniD"
+Input: s = "Hello"
+Output: 1
 ```
 ___
 
 ### Constraints 
-* `1 <= s.length <= 5 * 10^4`
-* `s` contains printable ASCII characters.
+* `0 <= s.length <= 300`
+* `s` consists of lowercase and uppercase English letters, digits, or one of the following characters `"!@#$%^&*()_+-=',.:"`.
 * `s` does not contain any leading or trailing spaces.
-* There is at least one word in `s`.
-* All the words in `s` are separated by a single space.
+* The only space character in `s` is ' '.
 
 ```java
 class Solution {
-    public String reverseWords(String s) {
+    public int countSegments(String s) {
+        s = s.trim();
+        String[] aStrings = s.split(" ");
         int size = s.length();
-        if(size==1 || size == 0)
-            return s;
-        String[] sentence = s.split(" ");
-        String returningSentence = "";
-        for (int i = 0; i < sentence.length; i++) {
-            char[] sArray = sentence[i].toCharArray();
-            for (int j = 0; j < sArray.length/2; j++) {
-                char temp = sArray[j];
-                sArray[j] = sArray[(sArray.length - 1) - j];
-                sArray[(sArray.length - 1) - j] = temp;
-            }
-            if(i!= sentence.length - 1)
-                returningSentence += String.valueOf(sArray) + " ";
-            else returningSentence += String.valueOf(sArray);
+        if (size == 0) {
+            return 0;
         }
-        return returningSentence;
+        int count = 1;
+        for (int i = 1; i < size - 1; i++) {
+            if (s.charAt(i) == ' ' && s.charAt(i - 1) != ' ') {
+                count++;
+            }
+        }
+        return count;
     }
 }
 ```
 ___
 ### Results
-![image](https://user-images.githubusercontent.com/31382363/205514762-e4636050-a97a-4e1d-9168-9f78c166fa96.png)
+![image](https://user-images.githubusercontent.com/31382363/205734875-b5161a68-e04b-4b7b-ab02-6b6faed05b56.png)
 
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/822e7cde751090cc327d72242d7e4e6e3acf7e98/Day29_Reverse_Word_In_a_Sentence/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/416ad6e47b3ae908acc2d65bb2036a5e9420f007/Day30_Number_Of_Segments/code.java)
