@@ -32,7 +32,6 @@ ___
 class Solution {
     public int countSegments(String s) {
         s = s.trim();
-        String[] aStrings = s.split(" ");
         int size = s.length();
         if (size == 0) {
             return 0;
@@ -49,7 +48,7 @@ class Solution {
 ```
 ___
 ### Results
-![image](https://user-images.githubusercontent.com/31382363/205734875-b5161a68-e04b-4b7b-ab02-6b6faed05b56.png)
+![image](https://user-images.githubusercontent.com/31382363/205735838-705c569d-400b-42b9-87b4-c0b665f43ddb.png)
 
 ___
 
