@@ -59,3 +59,4 @@ ___
 
 ### Link to Github file  
 * [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/2aff75ed96972c51a22c583df85af730859fc5c3/Day31_Thousand_Seperator/code.java)
+* [Java(Made using .substring())](https://github.com/studentdevelops/100DaysOfLeetCode/blob/ba4d749c94e820caf8259bec56436f79dbd20af1/Day31_Thousand_Seperator/code2.java)
