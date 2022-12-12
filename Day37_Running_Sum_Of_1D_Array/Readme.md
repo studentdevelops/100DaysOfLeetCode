@@ -53,4 +53,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/855f12a2b939125224d8f4830530ee1e75bc482e/Day36_Valid_Perfect_Sqaure/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/e20a20adb373c76fdcbf081eda64ce1f6d9b5deb/Day37_Running_Sum_Of_1D_Array/code.java)
