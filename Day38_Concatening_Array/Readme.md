@@ -55,4 +55,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/e20a20adb373c76fdcbf081eda64ce1f6d9b5deb/Day37_Running_Sum_Of_1D_Array/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/e517ab6b5653d86add2b017cf9d425ec7a20ffa0/Day38_Concatening_Array/code.java)
