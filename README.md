@@ -3,7 +3,7 @@
 Taking a page from [@Ayushi Khare](https://github.com/ayushi-Khare/)'s Book  
 So I will be starting `#100DaysOfLeetCode` as well  
 Original Post which inspired me to start this as well  
-[@Ayushi Khare's 100DaysofCoding Repo](https://github.com/Ayushi-Khare/100DaysCodingChallenge)
+[100DaysofCoding Repo](https://github.com/Ayushi-Khare/100DaysCodingChallenge)
 
 The Upload Structure will be folder wise for each day of upload as  
 `https://github.com/studentdevelops/100DaysOfLeetCode/` `Day1_Problem Name` and `Day2_Problem Name`  
