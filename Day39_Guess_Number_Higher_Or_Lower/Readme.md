@@ -1,4 +1,4 @@
-# Day 10 of `#100DaysOfLeetCode`
+# Day 39 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
@@ -71,4 +71,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/d07ca7e3428a6d1da582d836abbf4ecee76373ea/Day10_Reverse_Vowels_of_String/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/bb724028554889649497d1b4756d640811fe8d4c/Day39_Guess_Number_Higher_Or_Lower/code.java)
