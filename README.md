@@ -1,6 +1,5 @@
 ## 100DaysOfLeetCode
 
-Taking a page from [@Ayushi Khare](https://github.com/ayushi-Khare/)'s Book  
 So I will be starting `#100DaysOfLeetCode` as well  
 Original Post which inspired me to start this as well  
 [100DaysofCoding Repo](https://github.com/Ayushi-Khare/100DaysCodingChallenge)
