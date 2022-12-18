@@ -8,7 +8,7 @@ Return the number of strings in words that contain pref as a prefix.
 
 A prefix of a string s is any leading contiguous substring of s.
 
-#### LeetCode Link: [Keep Multiplying Found Values by Two]([https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/))
+#### LeetCode Link: [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
 ___
 
 
