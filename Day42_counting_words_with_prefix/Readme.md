@@ -52,4 +52,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/709e9034d74699d3d91eed849c647ed01994e797/Day41_Multiply_Values_By_2/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/main/Day42_counting_words_with_prefix/code.java)
