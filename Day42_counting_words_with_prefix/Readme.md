@@ -46,7 +46,7 @@ class Solution {
 ```
 ___
 ### Results
-![image](https://user-images.githubusercontent.com/31382363/208312843-bfd49a98-6c16-457a-9145-2a51fb9fc7e9.png)
+![image](![image](https://user-images.githubusercontent.com/31382363/208313212-20339566-837b-40be-af19-01dcb91e56c2.png)
 
 
 ___
