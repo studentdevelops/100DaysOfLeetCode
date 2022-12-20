@@ -27,7 +27,7 @@ ___
 ### Constraints 
 
 * 1 <= nums.length <= 100
-* -105 <= nums[i] <= 105
+* -10^5 <= nums[i] <= 10^5
 
 ```java
 class Solution {
