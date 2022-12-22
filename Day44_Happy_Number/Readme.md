@@ -67,4 +67,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/main/Day43_Count_Element_with_Greater_and_Smaller_Elements/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/main/Day44_Happy_Number/code.java)
