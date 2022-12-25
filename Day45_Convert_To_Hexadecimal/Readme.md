@@ -8,7 +8,7 @@ All the letters in the answer string should be lowercase characters, and there s
 
 Note: You are not allowed to use any built-in library method to directly solve this problem.
 
-#### LeetCode Link: [Detect Capital](https://leetcode.com/problems/detect-capital/description/)
+#### LeetCode Link: [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 ___
 
 
