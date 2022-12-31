@@ -51,7 +51,7 @@ class Solution {
 ```
 ___
 ### Results
-![image](https://user-images.githubusercontent.com/31382363/207941823-77215243-6ff6-4d5a-84a6-9b03d1c45c90.png)
+![image](https://user-images.githubusercontent.com/31382363/210152741-bf6a95ac-d033-42df-861d-bb155024d824.png)
 
 
 ___
