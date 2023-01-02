@@ -5,7 +5,7 @@ ___
 Given a string `s`, find the length of the longest substring without repeating characters.
 
 
-#### LeetCode Link: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+#### LeetCode Link: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 ___
 
 
