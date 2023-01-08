@@ -11,7 +11,7 @@ Initially, the value of `X` is `0`.
 Given an array of strings `operations` containing a list of operations, return the final value of `X` after performing all the operations.
 
 
-#### LeetCode Link: [Single Number](https://leetcode.com/problems/single-number/description/)
+#### LeetCode Link: [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 ___
 
 
