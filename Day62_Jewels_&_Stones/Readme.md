@@ -51,4 +51,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/bb3e6a139d16e1941161056f8b77db85d714d5bf/Day33_Robot_Returns_To_Origin/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/ca6545f4e2c806bbb61160d26ac91b6f5d67dc1c/Day62_Jewels_&_Stones/code.java)
