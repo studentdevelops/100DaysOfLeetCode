@@ -67,4 +67,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/994495a10dfea332087d4a8d0735c96a6a77afb4/Day70_Richest_Customer/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/f00bd66efc6775895a46a93e4af164c4be9cbee1/Day71_Richest_Customer/code.java)
