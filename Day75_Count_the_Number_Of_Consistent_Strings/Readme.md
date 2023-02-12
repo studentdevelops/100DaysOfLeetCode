@@ -6,7 +6,7 @@ You are given a string `allowed` consisting of distinct characters and an array 
 
 Return the number of consistent strings in the array `words`.
 
-#### LeetCode Link: [Find Pivot Index](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)
+#### LeetCode Link: [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)
 ___
 
 
