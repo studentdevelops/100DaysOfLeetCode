@@ -1,4 +1,4 @@
-# Day 77 of `#100DaysOfLeetCode`
+# Day 78 of `#100DaysOfLeetCode`
 
 ___
 ### Problem Statement:  
@@ -60,4 +60,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/f3896fe9150fb2517a906ac1aef5e624468ca17f/Day77_Seperate_The_Digits_In_Array/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/011d183c89c10d89d4f53ecf48e1beabd02893ae/Day78_Seperate_The_Digits_In_Array/code.java)
