@@ -66,4 +66,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/67c37534ff480608b07fffbe2023a0f5ce6b245e/Day64_Maximum_Ascending_Subarray_Sum/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/d54e67fd474a4a6ca19d4f2df65e793e760b0eb8/Day83_Find_the_Index_of_the_First_Occurrence_in_a_String/code.java)
