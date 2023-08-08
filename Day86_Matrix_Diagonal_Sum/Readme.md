@@ -63,4 +63,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/e274165291de2b1678f4509dc746e4b8d53d9931/Day85_Repeated_SubString_Pattern/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/dc69744fbb1b4af3d120b003c9bb19d9d25d3f04/Day86_Matrix_Diagonal_Sum/code.java)
