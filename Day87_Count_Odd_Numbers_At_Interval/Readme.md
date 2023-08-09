@@ -47,4 +47,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/dc69744fbb1b4af3d120b003c9bb19d9d25d3f04/Day86_Matrix_Diagonal_Sum/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/75c02beb0c4d54063fe63134456cd2f1e111b8fc/Day87_Count_Odd_Numbers_At_Interval/code.java)
