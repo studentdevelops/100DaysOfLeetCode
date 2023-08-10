@@ -63,4 +63,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/75c02beb0c4d54063fe63134456cd2f1e111b8fc/Day87_Count_Odd_Numbers_At_Interval/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/3f9d9e79866a72bae9d024313efb123799150c6f/Day88_PlusOne/code.java)
