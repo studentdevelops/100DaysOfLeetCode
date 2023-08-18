@@ -58,4 +58,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/73f18feb98df130d3fa7d581f10abefa16bf8e6a/Dat15_Detect_Capital/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/043e0d1d04a5248a8c225b69319f2eb651d9e297/Day92_Pow(x%2Cy)/code.java)
