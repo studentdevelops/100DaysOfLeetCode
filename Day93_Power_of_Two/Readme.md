@@ -53,4 +53,4 @@ ___
 ___
 
 ### Link to Github file
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/8e7fde0b361394bc858ba1433c2e14ea6cfbc2c5/Day91_Baseball_Game/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/eed9079bb7f43e18f9dfea15fb6b70e7c87479d3/Day93_Power_of_Two/code.java)
