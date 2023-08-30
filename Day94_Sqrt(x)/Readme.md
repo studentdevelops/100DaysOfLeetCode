@@ -56,4 +56,4 @@ ___
 ___
 
 ### Link to Github file
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/eed9079bb7f43e18f9dfea15fb6b70e7c87479d3/Day93_Power_of_Two/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/436b5198463f80e5b2c21053c1dacca65201b6d7/Day94_Sqrt(x)/code.java)
