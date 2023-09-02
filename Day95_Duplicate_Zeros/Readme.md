@@ -59,4 +59,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/416ad6e47b3ae908acc2d65bb2036a5e9420f007/Day30_Number_Of_Segments/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/58b514c4f0e5b987fb1d80fddda6fffc279fc805/Day95_Duplicate_Zeros/code.java)
