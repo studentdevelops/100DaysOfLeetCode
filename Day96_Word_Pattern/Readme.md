@@ -67,4 +67,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/d26f3a8edc0d1a17274ceb0192f69bf2ee12e067/Day12_Find_The_Difference/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/911314ae84c3461706c6e3cb9abd908c4922ea21/Day96_Word_Pattern/code.java)
