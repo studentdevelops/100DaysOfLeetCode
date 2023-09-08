@@ -24,6 +24,10 @@ Output: false
 Input: pattern = "aaaa", s = "dog cat cat dog"
 Output: false
 ```
+```
+Input: pattern = "abba", s = "dog dog dog dog"
+Output: false
+```
 ___
 
 ### Constraints 
