@@ -52,4 +52,4 @@ ___
 ___
 
 ### Link to Github file  
-* [java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/6f151e2bd8ae10b41a4666c0e3e9a8b31ee0fc44/Day97_Power_of_Three/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/6f151e2bd8ae10b41a4666c0e3e9a8b31ee0fc44/Day97_Power_of_Three/code.java)
