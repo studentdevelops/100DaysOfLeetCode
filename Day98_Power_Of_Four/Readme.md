@@ -49,4 +49,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/6071c09131459b10e75ae4aa52cdc17f59415515/Day34_Search_Insert_Position/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/a80cab37fa957fccefb8d1adae990c9a69611305/Day98_Power_Of_Four/code.java)
