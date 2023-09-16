@@ -60,4 +60,4 @@ ___
 ___
 
 ### Link to Github file  
-* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/a80cab37fa957fccefb8d1adae990c9a69611305/Day98_Power_Of_Four/code.java)
+* [Java](https://github.com/studentdevelops/100DaysOfLeetCode/blob/aee36581f6b9d13f73653495c36d1c870108ce5b/Day99_Ugly_Number/code.java)
